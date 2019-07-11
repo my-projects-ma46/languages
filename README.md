@@ -1,2 +1,2 @@
-# subjects
-This is a repository for my academic projects
+# Languages
+This is a repository with examples of programs in some languages, such as C and Python.
