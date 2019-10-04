@@ -1,0 +1,17 @@
+
+
+Ordem:
+
+1 -[X] Ambiente e conceitos - Node JS
+2 -[ ] Iniciando back-end do GoBarber - Node JS
+3 -[ ] Continuando API do Gobarber - Node JS
+
+4 -[ ] Primeiro projeto - React Native
+5 -[ ] Arquitetura Flux
+6 -[ ] React Hooks
+7 -[ ] GoBarber mobile - React Native
+
+8 -[ ] Testes - Node JS
+9 -[ ] Testes - React Native
+
+
