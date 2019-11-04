@@ -15,4 +15,8 @@ Controle
 Transações
 
 
+SELECT
+INSERT
+DELET
+UPDATE
 
